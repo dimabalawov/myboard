@@ -1,0 +1,40 @@
+.back
+{
+    width: 70em;
+    height: 41em;
+
+    background-color: rgb(0, 139, 139);
+    overflow: auto;
+    display: flex;
+}
+.doubleback
+{
+    width: 87em;
+    height: 36em;
+    background-color: rgb(1, 158, 158);
+    align-self: flex-end;
+    display: flex;
+}
+.boardback
+{
+    overflow: auto;
+    display: inline-block;
+    margin-left: 2em;
+    margin-top: 1.5em;
+    width: 19em;
+    height: 33em;
+    background-color: rgb(220, 220, 220);
+    padding-left: 2em;
+    padding-right: 2em;
+    display: block;
+    padding-top: 1em;
+}
+.task
+{
+    margin-top: 1em;
+    background-color: white;
+    width: 11.3em;
+    height: 7em;
+    margin-bottom: 1em;
+    align-self: center;
+}
